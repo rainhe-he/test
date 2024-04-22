@@ -1,0 +1,17 @@
+E:\c#项目\实战\个人blog\Repo\bin\Debug\net8.0\Repo.deps.json
+E:\c#项目\实战\个人blog\Repo\bin\Debug\net8.0\Repo.dll
+E:\c#项目\实战\个人blog\Repo\bin\Debug\net8.0\Repo.pdb
+E:\c#项目\实战\个人blog\Repo\bin\Debug\net8.0\IRepo.dll
+E:\c#项目\实战\个人blog\Repo\bin\Debug\net8.0\Model.dll
+E:\c#项目\实战\个人blog\Repo\bin\Debug\net8.0\IRepo.pdb
+E:\c#项目\实战\个人blog\Repo\bin\Debug\net8.0\Model.pdb
+E:\c#项目\实战\个人blog\Repo\obj\Debug\net8.0\Repo.csproj.AssemblyReference.cache
+E:\c#项目\实战\个人blog\Repo\obj\Debug\net8.0\Repo.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#项目\实战\个人blog\Repo\obj\Debug\net8.0\Repo.AssemblyInfoInputs.cache
+E:\c#项目\实战\个人blog\Repo\obj\Debug\net8.0\Repo.AssemblyInfo.cs
+E:\c#项目\实战\个人blog\Repo\obj\Debug\net8.0\Repo.csproj.CoreCompileInputs.cache
+E:\c#项目\实战\个人blog\Repo\obj\Debug\net8.0\Repo.csproj.Up2Date
+E:\c#项目\实战\个人blog\Repo\obj\Debug\net8.0\Repo.dll
+E:\c#项目\实战\个人blog\Repo\obj\Debug\net8.0\refint\Repo.dll
+E:\c#项目\实战\个人blog\Repo\obj\Debug\net8.0\Repo.pdb
+E:\c#项目\实战\个人blog\Repo\obj\Debug\net8.0\ref\Repo.dll

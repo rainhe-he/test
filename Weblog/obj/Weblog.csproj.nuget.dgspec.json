@@ -1,0 +1,467 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\c#项目\\实战\\个人blog\\Weblog\\Weblog.csproj": {}
+  },
+  "projects": {
+    "E:\\c#项目\\实战\\个人blog\\IRepo\\IRepo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\c#项目\\实战\\个人blog\\IRepo\\IRepo.csproj",
+        "projectName": "IRepo",
+        "projectPath": "E:\\c#项目\\实战\\个人blog\\IRepo\\IRepo.csproj",
+        "packagesPath": "C:\\Users\\y1515\\.nuget\\packages\\",
+        "outputPath": "E:\\c#项目\\实战\\个人blog\\IRepo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\c#\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\y1515\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\c#项目\\实战\\个人blog\\Model\\Model.csproj": {
+                "projectPath": "E:\\c#项目\\实战\\个人blog\\Model\\Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\c#项目\\实战\\个人blog\\IService\\IService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\c#项目\\实战\\个人blog\\IService\\IService.csproj",
+        "projectName": "IService",
+        "projectPath": "E:\\c#项目\\实战\\个人blog\\IService\\IService.csproj",
+        "packagesPath": "C:\\Users\\y1515\\.nuget\\packages\\",
+        "outputPath": "E:\\c#项目\\实战\\个人blog\\IService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\c#\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\y1515\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\c#项目\\实战\\个人blog\\Model\\Model.csproj": {
+                "projectPath": "E:\\c#项目\\实战\\个人blog\\Model\\Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\c#项目\\实战\\个人blog\\Model\\Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\c#项目\\实战\\个人blog\\Model\\Model.csproj",
+        "projectName": "Model",
+        "projectPath": "E:\\c#项目\\实战\\个人blog\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\y1515\\.nuget\\packages\\",
+        "outputPath": "E:\\c#项目\\实战\\个人blog\\Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\c#\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\y1515\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "SqlSugarCore": {
+              "target": "Package",
+              "version": "[5.1.4.152, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\c#项目\\实战\\个人blog\\Repo\\Repo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\c#项目\\实战\\个人blog\\Repo\\Repo.csproj",
+        "projectName": "Repo",
+        "projectPath": "E:\\c#项目\\实战\\个人blog\\Repo\\Repo.csproj",
+        "packagesPath": "C:\\Users\\y1515\\.nuget\\packages\\",
+        "outputPath": "E:\\c#项目\\实战\\个人blog\\Repo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\c#\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\y1515\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\c#项目\\实战\\个人blog\\IRepo\\IRepo.csproj": {
+                "projectPath": "E:\\c#项目\\实战\\个人blog\\IRepo\\IRepo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\c#项目\\实战\\个人blog\\Service\\Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\c#项目\\实战\\个人blog\\Service\\Service.csproj",
+        "projectName": "Service",
+        "projectPath": "E:\\c#项目\\实战\\个人blog\\Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\y1515\\.nuget\\packages\\",
+        "outputPath": "E:\\c#项目\\实战\\个人blog\\Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\c#\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\y1515\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\c#项目\\实战\\个人blog\\IRepo\\IRepo.csproj": {
+                "projectPath": "E:\\c#项目\\实战\\个人blog\\IRepo\\IRepo.csproj"
+              },
+              "E:\\c#项目\\实战\\个人blog\\IService\\IService.csproj": {
+                "projectPath": "E:\\c#项目\\实战\\个人blog\\IService\\IService.csproj"
+              },
+              "E:\\c#项目\\实战\\个人blog\\Model\\Model.csproj": {
+                "projectPath": "E:\\c#项目\\实战\\个人blog\\Model\\Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\c#项目\\实战\\个人blog\\Weblog\\Weblog.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\c#项目\\实战\\个人blog\\Weblog\\Weblog.csproj",
+        "projectName": "Weblog",
+        "projectPath": "E:\\c#项目\\实战\\个人blog\\Weblog\\Weblog.csproj",
+        "packagesPath": "C:\\Users\\y1515\\.nuget\\packages\\",
+        "outputPath": "E:\\c#项目\\实战\\个人blog\\Weblog\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\c#\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\y1515\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\c#项目\\实战\\个人blog\\IRepo\\IRepo.csproj": {
+                "projectPath": "E:\\c#项目\\实战\\个人blog\\IRepo\\IRepo.csproj"
+              },
+              "E:\\c#项目\\实战\\个人blog\\IService\\IService.csproj": {
+                "projectPath": "E:\\c#项目\\实战\\个人blog\\IService\\IService.csproj"
+              },
+              "E:\\c#项目\\实战\\个人blog\\Model\\Model.csproj": {
+                "projectPath": "E:\\c#项目\\实战\\个人blog\\Model\\Model.csproj"
+              },
+              "E:\\c#项目\\实战\\个人blog\\Repo\\Repo.csproj": {
+                "projectPath": "E:\\c#项目\\实战\\个人blog\\Repo\\Repo.csproj"
+              },
+              "E:\\c#项目\\实战\\个人blog\\Service\\Service.csproj": {
+                "projectPath": "E:\\c#项目\\实战\\个人blog\\Service\\Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Autofac": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

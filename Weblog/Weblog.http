@@ -1,0 +1,6 @@
+@Weblog_HostAddress = http://localhost:5204
+
+GET {{Weblog_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,15 @@
+E:\c#项目\实战\个人blog\IService\bin\Debug\net8.0\IService.deps.json
+E:\c#项目\实战\个人blog\IService\bin\Debug\net8.0\IService.dll
+E:\c#项目\实战\个人blog\IService\bin\Debug\net8.0\IService.pdb
+E:\c#项目\实战\个人blog\IService\bin\Debug\net8.0\Model.dll
+E:\c#项目\实战\个人blog\IService\bin\Debug\net8.0\Model.pdb
+E:\c#项目\实战\个人blog\IService\obj\Debug\net8.0\IService.csproj.AssemblyReference.cache
+E:\c#项目\实战\个人blog\IService\obj\Debug\net8.0\IService.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#项目\实战\个人blog\IService\obj\Debug\net8.0\IService.AssemblyInfoInputs.cache
+E:\c#项目\实战\个人blog\IService\obj\Debug\net8.0\IService.AssemblyInfo.cs
+E:\c#项目\实战\个人blog\IService\obj\Debug\net8.0\IService.csproj.CoreCompileInputs.cache
+E:\c#项目\实战\个人blog\IService\obj\Debug\net8.0\IService.csproj.Up2Date
+E:\c#项目\实战\个人blog\IService\obj\Debug\net8.0\IService.dll
+E:\c#项目\实战\个人blog\IService\obj\Debug\net8.0\refint\IService.dll
+E:\c#项目\实战\个人blog\IService\obj\Debug\net8.0\IService.pdb
+E:\c#项目\实战\个人blog\IService\obj\Debug\net8.0\ref\IService.dll
